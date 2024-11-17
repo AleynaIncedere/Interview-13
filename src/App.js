@@ -82,7 +82,7 @@ const CustomProgram = () => {
       </div>
 
       <div>
-        <h3>Hesaplama Programı</h3>
+      
         <ul>
           {program.map((operation, index) => (
             <li key={index}>
